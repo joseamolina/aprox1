@@ -1,0 +1,13 @@
+{
+  "name": "aprox1",
+  "version": "1.0.0",
+  "description": "GraphQL implementation, angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd server/ && npm run start && cd ..",
+    "client": "cd client/ && npm run start && cd .."
+  },
+  "author": "",
+  "license": "ISC"
+}
